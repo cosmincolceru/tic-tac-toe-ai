@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587642791 source:d:\code blocks\x si o ai\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+
+1588635732 source:d:\proiecte\x si o ai\x si o ai\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+
+1588794098 source:d:\proiecte\x si o ai\x si o ai\resoruce.rc
+
